@@ -1,8 +1,8 @@
 #include "sort.h"
 /**
- * @brief bubble_sort - sorts array of integers using bubble_sort
- * @param array: arry to be sorted
- * @param size : number of elements
+ *bubble_sort - sorts array of integers using bubble_sort
+ * @array: arry to be sorted
+ * @size : number of elements
  */
 
 
