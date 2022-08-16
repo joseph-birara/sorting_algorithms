@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap - swaps node and prints
+ * swapp - swaps node and prints
  * @current: node being moved right
  * @new: node being moved left
  * @list: pointer to head node
